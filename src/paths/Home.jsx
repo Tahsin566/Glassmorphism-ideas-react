@@ -17,7 +17,7 @@ const Home = () => {
     <>
       <div className='img flex justify-center items-center min-h-screen'>
 
-        <div className='bg-[rgba(107,33,168,0.4)] w-[500px] h-[300px] backdrop-blur-[20px] border-white flex flex-col justify-center items-center rounded-[10px] text-white px-[12px]'>
+        <div className='bg-[rgba(107,33,168,0.4)] max-w-[500px] min-h-[300px] backdrop-blur-[20px] border-white flex flex-col justify-center items-center rounded-[10px] text-white px-[12px]'>
           <h1>Lorem ipsum</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur accusamus adipisci sequi ipsam voluptatem neque quod quibusdam minus! Amet, dolores. Quam, in accusantium.</p>
         </div>
