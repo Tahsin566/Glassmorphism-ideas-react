@@ -50,7 +50,7 @@ const Home = () => {
                 <p>Bangladesh,Sylhet</p>
               </div>
 
-              <div className='p-[10px] bg-[rgba(255,255,255,0.6)] rounded-[10px]'>
+              <div className='p-[10px] bg-[rgba(255,255,255,0.6)] rounded-[10px] '>
                 <h1>Passenger</h1>
                 <p>1 Adults,3 children,1 pet</p>
               </div>
