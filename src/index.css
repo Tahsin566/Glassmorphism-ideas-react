@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.img{
+    background-color: indigo;
+    background-image: url('../public/pbg.png');
+    background-size: contain;
+    padding: 0px 20px;
+}
