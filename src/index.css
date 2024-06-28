@@ -5,7 +5,7 @@
 
 .img{
     background-color: indigo;
-    background-image: url('../public/pbg.png');
+    background-image: url('/pbg.png');
     background-size: contain;
     padding: 0px 20px;
 }
